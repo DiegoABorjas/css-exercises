@@ -1,0 +1,17 @@
+div {
+    color: white;
+    background-color: red;
+    font-size: xx-large;
+    font-family: sans-serif bold 16px  
+}
+
+p {
+    color: white;
+    background: green;
+    font-size: large;
+    font: sans-serif bold 16px
+}
+
+button {
+    background: yellow;
+}
